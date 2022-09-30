@@ -77,10 +77,10 @@ footer p{
 
 @media screen and (max-width: 480px) {
     h1{
-        font-size: 3rem;
+        font-size: 2px;
     }
 
     h2{
-        font-size: 01.3rem;
+        font-size: 1px;
     }
 }
